@@ -88,5 +88,5 @@
     1 - Page of the list of books, with the information about them, as well the header, footer, and sort button:
 
 <p align="center">
-  <img src="screenshots/list_books.png" width="350" title="Home page">
+  <img src="public/screenshots/list_books.png" width="350" title="Home page">
 </p>
