@@ -90,3 +90,27 @@
 <p align="center">
   <img src="public/screenshots/list_books.png" width="350" title="Home page">
 </p>
+
+    2 - Form to add a new book:
+
+<p align="center">
+  <img src="public/screenshots/new_book.png" width="350" title="Home page">
+</p>
+
+    3 - Form to edit a specific book:
+
+<p align="center">
+  <img src="public/screenshots/edit_book.png" width="350" title="Home page">
+</p>
+
+    4 - Notes for a specific book:
+
+<p align="center">
+  <img src="public/screenshots/notes.png" width="350" title="Home page">
+</p>
+
+    5 - About page:
+
+<p align="center">
+  <img src="public/screenshots/about.png" width="350" title="Home page">
+</p>
