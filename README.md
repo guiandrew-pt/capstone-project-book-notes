@@ -87,4 +87,6 @@
 
     1 - Page of the list of books, with the information about them, as well the header, footer, and sort button:
 
-![screenshot](list_books.png)
+<p align="center">
+  <img src="screenshots/list_books.png" width="350" title="Home page">
+</p>
