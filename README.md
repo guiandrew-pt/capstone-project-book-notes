@@ -87,4 +87,4 @@
 
     1 - Page of the list of books, with the information about them, as well the header, footer, and sort button:
 
-![screenshots](list_books.png)
+![screenshot](list_books.png)
